@@ -1,24 +1,37 @@
 # Web Dev Starter Code
 
+Wylie Hansen  
+CS 408  
+September 11, 2024
+
 ## Overview
 
-TODO: Write a project description
+This was a practice exercise focused on writing CSS that styles a given HTML page to
+match the look of a sample screenshot.
+
+## Running
+
+For best results, you can open this webpage in a local server that you can run
+through VS Code's preview function. To use the preview function, the Live Preview extension
+must be installed.
+This webpage does not contain any scripts that need to be run, so it can also be viewed
+by opening the raw index.html file in a browser window.
+
+## Usage
+
+None of the menu options are connected to other pages, but if you click on the birds in the
+"Favorite Photos" section it takes you to a fullsize version of the picture and that's
+pretty fun.
 
 ## Sources and Credits
 
-TODO: You must credit the sources and authors of any code, libraries, or other
-assets you use in your project. If you leave this section blank, your project
-will be considered in violation of the Academic Honesty policy unless you truly
-created everything from scratch with no outside help. If you need to use a
-source that you cannot credit (e.g. a classmate's work), you must get explicit
-permission from your instructor.
+- MDN Web Docs, for referencing CSS syntax and functionality:
+    -https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML
 
-A simple bulleted list below is sufficient. For example:
+- For some additional CSS syntax help:
+    -https://www.w3schools.com/Css/default.asp
 
-- Bootstrap: https://getbootstrap.com/
-- jQuery: https://jquery.com/
-- Background image: https://unsplash.com/photos/...
-- Sound effects: https://freesound.org/people/...
-- Icons: https://fontawesome.com/
-- Fonts: https://fonts.google.com/
-- etc.
+- Shane Panter, for starter code and for base text and CSS files.
+    -https://github.com/shanep/web-dev-starter
+
+
